@@ -6,7 +6,7 @@
 - 📝 you can ask me DS/Algo, python, Django
 - 🙌 looking for help with JS and React
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Sketching an painting 
+- ⚡ Fun fact: I love Sketching and painting 
 
 ### 📫 Connect with me:
 
