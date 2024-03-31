@@ -4,7 +4,7 @@
 
 - 🎓 Currently pursuing a graduate degree in Computer Science at Indiana University Purdue University. Go SWOOP! 🪶
 - 💻 Aspiring Data Scientist/Software Engineer with a passion for problem-solving and innovation.
-- 🌱 Currently sharpening my skills in Python, SQL, and Django.
+- 🌱 Currently sharpening my skills in AI, ML and AWS.
 - 💬 Feel free to reach out to me on LinkedIn for collaboration opportunities.
 - 📝 Available to discuss topics such as Data Science, Algorithms, Python, Django, and SQL.
 - 🙌 Seeking assistance with JavaScript and React development.
