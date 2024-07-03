@@ -2,7 +2,7 @@
 
 ### About Me:
 
-- 🎓 Currently pursuing a graduate degree in Computer Science at Indiana University Purdue University. Go SWOOP! 🪶
+- 🎓 Master's degree in Computer Science. Go SWOOP! 🪶
 - 💻 Aspiring Data Scientist/Software Engineer with a passion for problem-solving and innovation.
 - 🌱 Currently sharpening my skills in AI, ML and AWS.
 - 💬 Feel free to reach out to me on LinkedIn for collaboration opportunities.
@@ -52,7 +52,6 @@
 
 [twitter]: https://twitter.com/ShilpaGopal
 [facebook]: https://www.facebook.com/shilpa.g.39794/
-[linkedin]: https://www.linkedin.com/in/shlpgopal
 
 ---
 
