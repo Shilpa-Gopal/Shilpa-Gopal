@@ -1,60 +1,130 @@
-# Hello there! 👋 I'm Shilpa!
 
-### About Me:
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🎓 Master's degree in Computer Science. Go SWOOP! 🪶
-- 💻 Aspiring Data Scientist/Software Engineer with a passion for problem-solving and innovation.
-- 🌱 Currently sharpening my skills in AI, ML and AWS.
-- 💬 Feel free to reach out to me on LinkedIn for collaboration opportunities.
-- 📝 Available to discuss topics such as Data Science, Algorithms, Python, Django, and SQL.
-- 🙌 Seeking assistance with Deep learning and NLP development.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h2>
+    <p align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&duration=4000&pause=100&multiline=true&random=false&width=650&lines=I'm+Shilpa+G.+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+  </p>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+
+I'm a passionate Software Engineer dedicated to making coding fun and creating tools/projects that empower beginners. I love mentoring women in tech to help them become skilled coders and contribute more to the tech community. My tech toolbox includes Python, SQL, Flask, FastAPI, and Django. I'm equally thrilled about diving into AI tools and experimenting with various machine learning models, from LLMs to innovative approaches.
+
+
+### Here's what I'm up to:
+- 🌱 Currently researching how AI tools influence everyday data workflows.
+- 💬 Ask me about Python, SQL, Algorithms, and more!
+- 📫 Reach out to me at dev.shilpag@gmail.com.
+- 💼 Let's connect on [LinkedIn]() for collaboration opportunities.
+
+### Let's chat about:
+- 🙌 Currently learning about Deep Learning and NLP development.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an avid sketch artist and painter in my spare time.
-
----
-
-### Tools and Languages:
-
-#### Languages:
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-2ECC71.svg?style=for-the-badge&logo=data&logoColor=white" />
-  <img alt="Data Science" src="https://img.shields.io/badge/Data_Science-F9A03C.svg?style=for-the-badge&logo=science&logoColor=white" />
- </p>
- 
-#### Tools:
-<p>
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-FF4949.svg?style=for-the-badge&logo=rest&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="UNIX" src="https://img.shields.io/badge/UNIX-000000.svg?style=for-the-badge&logo=unix&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge" />
- </p>
+  
+<!--Intro end-->
 
 
-### 📫 Connect with me:
 
-[<img align="left" alt="Shilpa-Gopal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shilpa-Gopal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shilpa-Gopal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!--- Stats & Trophies (start) -->
+<p align="center">
+  <!--- Stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=Shilpa-Gopal&theme=dark&show_icons=true&count_private=true" /> -->
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shilpa-Gopal&theme=dark&hide_border=false" /> 
+      </td>
+<!--       <td width="50%" align="center">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shilpa-Gopal&theme=dark&hide_border=false&langs_count=10" />
+      </td> -->
+    </tr>
+  </table>
+  <!--- Stats (end) -->
 
-[twitter]: https://twitter.com/ShilpaGopal
-[facebook]: https://www.facebook.com/shilpa.g.39794/
 
----
+<!--- Stats & Trophies (end) -->
 
 
-     
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,aws,css,discord,docker,postgres,dynamodb,express,figma,firebase,redis,github,html,js,linux,md,nginx,mongodb,postman,py,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p> -->
+
+<!-- Skills & Tools Icons (start) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,r,sqlite,js,html,css,aws,git,docker,postgres,dynamodb,figma,firebase,redis,github,linux,md,nginx,mongodb,postman,ansible,anaconda,bash,cpp,django,eclipse,fastapi,flask,gherkin,idea,ai,jenkins,kafka,matlab,mysql,opencv,powershell,pytorch,sublime,tensorflow,ubuntu,visualstudio,vscode,bitbucket,sublime,vim,pycharm,eclipse,kubernetes&perline=14" />
+
+  </a>
+</p>
+<!-- Skills & Tools Icons (end) -->
+
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+<!-- [![](https://visitcount.itsvg.in/api?id=Shilpa-Gopal&icon=3&color=6)](https://visitcount.itsvg.in) -->
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [Shilpa-Gopal](https://github.com/Shilpa-Gopal)
+
+Last Edited on: 29/4/2023
