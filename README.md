@@ -7,6 +7,8 @@
   <ul align="center">
     <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h2>
     <p align="center">
+
+      
 <!--       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=30&duration=4000&pause=100&multiline=true&random=false&width=650&lines=I'm+Shilpa+G.+Welcome+to+my+profile!" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=4000&pause=100&multiline=true&color=000000&background=FFFFFF00&width=650&lines=I'm+Shilpa+G.+Welcome+to+My+Profile!" alt="Typing SVG" /></a>
   </p>
