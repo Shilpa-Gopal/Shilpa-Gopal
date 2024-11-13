@@ -39,8 +39,8 @@ I'm a passionate Software Engineer dedicated to making coding fun and creating t
 ### Here's what I'm up to:
 - 🌱 Currently researching how AI tools influence everyday data workflows.
 - 💬 Ask me about Python, SQL, Algorithms, and more!
-- 📫 Reach out to me at dev.shilpag@gmail.com.
-- 💼 Let's connect on [LinkedIn]() for collaboration opportunities.
+- 📫 Reach out to me at .
+- 💼 Let's connect on for collaboration opportunities.
 
 ### Let's chat about:
 - 🙌 Currently learning about Deep Learning and NLP development.
@@ -108,11 +108,11 @@ I'm a passionate Software Engineer dedicated to making coding fun and creating t
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/dev-shilpa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/dev-shilpa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.linkedin.com/in/dev-shilpa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/dev-shilpa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/dev-shilpa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
 
