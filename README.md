@@ -89,7 +89,8 @@ I'm a passionate Software Engineer dedicated to making coding fun and creating t
 <!-- Skills & Tools Icons (start) -->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,sqlite,js,html,css,aws,git,docker,postgres,dynamodb,figma,firebase,redis,github,linux,md,nginx,mongodb,postman,ansible,anaconda,bash,cpp,django,eclipse,fastapi,flask,gherkin,idea,ai,jenkins,kafka,matlab,mysql,opencv,powershell,pytorch,sublime,tensorflow,ubuntu,visualstudio,vscode,bitbucket,sublime,vim,pycharm,eclipse,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,anaconda,flask,fastapi,django,sklearn,tensorflow,pytorch,opencv,ai,r,sqlite,postgres,mysql,dynamodb,mongodb,redis,elasticsearch,aws,azure,gcp,heroku,firebase,kubernetes,js,html,cpp,bash,powershell,matlab,gherkin,git,github,bitbucket,docker,terraform,jenkins,ansible,postman,figma,eclipse,idea,pycharm,vscode,sublime,vim,replit,linux,ubuntu,windows,graphql,kafka,sublime,swift,svg,stackoverflow&perline=14" />
+
 
   </a>
 </p>
